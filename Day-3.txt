@@ -1,6 +1,6 @@
  HTML Learning Daily Diary – Day 3
 
-📅 Date: 15th July 2025
+📅 Date: 22 June 2025
 📘 Topic: Images and Lists in HTML
 ⏰ Duration: 1 Hour
 
